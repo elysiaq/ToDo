@@ -1,0 +1,10 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400&display=swap');
+button {
+    margin: 2px;
+}
+
+button:hover {
+    background-color: #dc899f;
+    cursor: pointer;
+}
